@@ -12,6 +12,7 @@ h4 {
 }
 
 p {
+    text-align:center;
     font-size: medium;
 }
 strong {
@@ -31,7 +32,7 @@ body {
 
 }
 .estrela {
-    background-color: black
+    background-color: pink
 
 }
 .brilho {
