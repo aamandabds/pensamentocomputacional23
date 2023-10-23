@@ -12,7 +12,6 @@ h4 {
 }
 
 p {
-    text-align: center;
     font-size: medium;
 }
 strong {
@@ -20,7 +19,7 @@ strong {
 }
 
 body {
-    background-color: pink;
+    background-color: white;
 }
 .imagem1 {
     width: 40%;
