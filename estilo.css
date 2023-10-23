@@ -58,10 +58,10 @@ nav a{
     text-transform: uppercase;
     text-align: center;
     color: darkorchid;
-    font-weight: 300;
-    font-size: 100%;
+    font-weight: 100;
+    font-size: 50%;
     text-decoration: none ;
-    border-color: pink;
+    border-color: white;
     border-width: 10px;
     border-style: solid; 
     backgound-color: white;
