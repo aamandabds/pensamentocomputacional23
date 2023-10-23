@@ -54,16 +54,18 @@ body {
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
+    
+header {text-align:center;
+    font-family:impact;
+    background-color: #51cc9076;
+    border-color: #51cc9076;
+    border-style:solid;
+    border-radius: 80px 80px 80px 80px;}
 
-nav a{
-    text-transform: uppercase;
-    text-align: center;
-    color: darkorchid;
-    font-weight: 200;
-    font-size: 150%;
-    text-decoration: none ;
-    border-color: white;
-    border-width: 10px;
-    border-style: solid; 
-    backgound-color: white;
-}
+nav a{  text-transform: uppercase;
+    font:medium;
+    padding: 5%;
+    font-weight: 300;
+    font-size: 100%;
+    color: #474747;
+    text-decoration: none ;}
