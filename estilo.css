@@ -32,11 +32,11 @@ body {
 
 }
 .estrela {
-    background-color: forestgreen
+    background-color: black
 
 }
 .brilho {
-   color: aqua;
+   color: purple;
 }
 
 }
@@ -61,5 +61,5 @@ nav a{
     border-color: pink;
     border-width: 10px;
     border-style: solid; 
-    backgound-color: pink;
+    backgound-color: white;
 }
