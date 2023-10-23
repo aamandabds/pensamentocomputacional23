@@ -20,6 +20,12 @@ body {
 }
 .imagem1 {
     width: 40%;
+
+    }
+.imagemcentralizada {
+ text-align: center;
+}
+
 }
 .unicornio {
     background-color: forestgreen
