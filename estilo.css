@@ -1,10 +1,14 @@
 h1 {
     text-align:center;
-    background-color: white;
+}    
+h2{
+    color: hotpink;
 }
 h3{
-    font-style: oblique;
-    background-color: white;
+    color: hotpink;
+}
+h4 {
+    color: hotpink;
 }
 
 p {
@@ -46,3 +50,16 @@ body {
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
+
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: pink;
+}
