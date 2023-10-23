@@ -63,6 +63,7 @@ header {text-align:center;
     border-radius: 80px 80px 80px 80px;}
 
 nav a{  text-transform: uppercase;
+    text-align:center;
     font:medium;
     padding: 5%;
     font-weight: 300;
