@@ -70,3 +70,9 @@ nav a{  text-transform: uppercase;
     font-size: 100%;
     color: fuchsia;
     text-decoration: none ;}
+
+    }
+nav a hover {
+    color: purple;
+    text-decoration: underline;
+}
